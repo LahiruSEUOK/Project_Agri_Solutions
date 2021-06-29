@@ -1,8 +1,5 @@
-1. Soil Testing
-2. Rain Condition 
 3. Labour Cost
 4. Crop Quality 
 5. Fertilization
 6. Insects
-7. Wild Animals
 8. Perfect Plants
